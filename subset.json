@@ -1,0 +1,162 @@
+ [
+  {
+  "FACILITY NAME": "Thistletown CC",
+  "Full Address": "925 Albion Road, Toronto, ON, M9V 1A6",
+  "Street #": "925",
+  "Street Name": "Albion Road",
+  "Suite": "",
+  "City": "Toronto",
+  "Province": "ON",
+  "Postal Code": "M9V 1A6",
+  "Ward": 1,
+  "Performance": 1,
+  "Exhibition ": {
+  " Visual Arts": null
+  },
+  "Screen Based": null,
+  "Library": null,
+  "Multipurpose": 1,
+  "Heritage": null,
+  "OWNERSHIP": "City Operated"
+  },
+  {
+  "FACILITY NAME": "Albion Pool & Health Club",
+  "Full Address": "1485 Albion Road, Toronto, ON, M9V 1B2",
+  "Street #": "1485",
+  "Street Name": "Albion Road",
+  "Suite": "",
+  "City": "Toronto",
+  "Province": "ON",
+  "Postal Code": "M9V 1B2",
+  "Ward": 1,
+  "Performance": null,
+  "Exhibition ": {
+  " Visual Arts": null
+  },
+  "Screen Based": null,
+  "Library": null,
+  "Multipurpose": 1,
+  "Heritage": null,
+  "OWNERSHIP": "City Owned"
+  },
+  {
+  "FACILITY NAME": "Albion Branch (TPL)",
+  "Full Address": "1515 Albion Road, Toronto, ON, M9V 1B2",
+  "Street #": "1515",
+  "Street Name": "Albion Road",
+  "Suite": "",
+  "City": "Toronto",
+  "Province": "ON",
+  "Postal Code": "M9V 1B2",
+  "Ward": 1,
+  "Performance": 1,
+  "Exhibition ": {
+  " Visual Arts": null
+  },
+  "Screen Based": null,
+  "Library": 1,
+  "Multipurpose": 1,
+  "Heritage": null,
+  "OWNERSHIP": "City Operated"
+  },
+  {
+  "FACILITY NAME": "Theatre Francais de Toronto - Centre for Creation",
+  "Full Address": "21 College Street, Office 610, Toronto, ON, M5G 2B3",
+  "Street #": "21",
+  "Street Name": "College Street",
+  "Suite": "Office 610",
+  "City": "Toronto",
+  "Province": "ON",
+  "Postal Code": "M5G 2B3",
+  "Ward": 1,
+  "Performance": 1,
+  "Exhibition ": {
+  " Visual Arts": null
+  },
+  "Screen Based": null,
+  "Library": null,
+  "Multipurpose": null,
+  "Heritage": 1,
+  "OWNERSHIP": "Owned by others"
+  },
+  {
+  "FACILITY NAME": "Humber Arboretum Gardens",
+  "Full Address": "203 Humber College Boulevard, Toronto, ON, M9W 5L7",
+  "Street #": "203",
+  "Street Name": "Humber College Boulevard",
+  "Suite": "",
+  "City": "Toronto",
+  "Province": "ON",
+  "Postal Code": "M9W 5L7",
+  "Ward": 1,
+  "Performance": null,
+  "Exhibition ": {
+  " Visual Arts": null
+  },
+  "Screen Based": null,
+  "Library": null,
+  "Multipurpose": 1,
+  "Heritage": null,
+  "OWNERSHIP": "City Owned"
+  },
+  {
+  "FACILITY NAME": "Thistletown Baptist Church",
+  "Full Address": "2534 Kipling Avenue, Toronto, ON, M9V 3A9",
+  "Street #": "2534",
+  "Street Name": "Kipling Avenue",
+  "Suite": "",
+  "City": "Toronto",
+  "Province": "ON",
+  "Postal Code": "M9V 3A9",
+  "Ward": 1,
+  "Performance": null,
+  "Exhibition ": {
+  " Visual Arts": null
+  },
+  "Screen Based": null,
+  "Library": null,
+  "Multipurpose": 1,
+  "Heritage": null,
+  "OWNERSHIP": "Owned by others"
+  },
+  {
+  "FACILITY NAME": "North Albion Collegiate Institute",
+  "Full Address": "2580 Kipling Avenue, Toronto, ON, M9V 3B2",
+  "Street #": "2580",
+  "Street Name": "Kipling Avenue",
+  "Suite": "",
+  "City": "Toronto",
+  "Province": "ON",
+  "Postal Code": "M9V 3B2",
+  "Ward": 1,
+  "Performance": 1,
+  "Exhibition ": {
+  " Visual Arts": null
+  },
+  "Screen Based": null,
+  "Library": null,
+  "Multipurpose": 1,
+  "Heritage": null,
+  "OWNERSHIP": "Owned by others"
+  },
+  {
+  "FACILITY NAME": "Smithfield Community Services",
+  "Full Address": "175 Mount Olive Drive, Toronto, ON, M9V 2E3",
+  "Street #": "175",
+  "Street Name": "Mount Olive Drive",
+  "Suite": "",
+  "City": "Toronto",
+  "Province": "ON",
+  "Postal Code": "M9V 2E3",
+  "Ward": 1,
+  "Performance": null,
+  "Exhibition ": {
+  " Visual Arts": null
+  },
+  "Screen Based": null,
+  "Library": null,
+  "Multipurpose": 1,
+  "Heritage": null,
+  "OWNERSHIP": "City Owned"
+  }
+]
