@@ -1,9 +1,9 @@
-Google Maps SDK for iOS Sample: Adding a Map with a Marker
-==========================================================
+City of Toronto Cultural Sites Map
+-------
+Author: Lulu Wang
 
-This sample goes hand in hand with a tutorial for the Google Maps SDK for iOS:
-[Adding a Map with a Marker](https://developers.google.com/maps/documentation/ios-sdk/map-with-marker).
-Follow the tutorial for a quick guide to using the SDK.
+A map of various cultural sites from around the City of Toronto. Utilized Google Maps SDK for iOS along with data from Toronto's Open Data database. Programmed, debugged and tested in under 36 hours at Hack The North 2017.
+
 
 License
 -------
